@@ -1,3 +1,3 @@
-# PVAPDFAssist
+# Visassist
 
-Public release artifacts for Visa Assist PDF desktop app updates.
+Public release artifacts for Visassist desktop app updates.
